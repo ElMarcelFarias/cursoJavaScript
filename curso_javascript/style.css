@@ -1,0 +1,82 @@
+
+#exemplo {
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  border: 1px solid #ccc;
+
+}
+/*
+.verde {
+  background-color: #00ff00;
+  color: #000;
+}
+
+.vermelho {
+
+  background-color: #FF0000;
+  color: #000;
+}
+
+.azul {
+  background-color: #0000FF;
+  color: #fff;
+}
+*/ 
+/*
+.preto {
+  background-color: #000;
+  color: #FFF;
+}
+
+.verde {
+  background-color: #00ff00;
+}
+*/
+
+/*
+.imagem {
+  height: 400px;
+}
+*/
+
+.texto {
+  width: 200px;
+  height: 900px;
+  overflow: auto;
+  background-color: #ccc;
+  padding: 20px;
+}
+
+.scrollbutton {
+  width: 40px;
+  height: 40px;
+  border-radius: 15px;
+  background-color: red;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 999;
+  cursor: pointer;
+  display: none;
+}
+
+.azul {
+  background-color: #0000FF;
+  color: white;
+  
+}
+
+.vermelho {
+  background-color: #FF0000;
+  color: white;
+}
+
+.verde {
+  background-color: #00FF00;
+  color: black;
+}
+
+#telefone {
+  display: none;
+}
